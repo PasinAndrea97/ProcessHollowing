@@ -11,9 +11,9 @@ using System;
 using System.Collections.Generic;
 using System.Runtime.InteropServices;
 
-namespace ShellLoader
+namespace ShLoader
 {
-    public sealed class Loader
+    public sealed class ShellCodeLoader
     {
 
 
@@ -429,7 +429,7 @@ namespace ShellLoader
         {
             return localmap_;
         }
-        ~Loader()
+        ~ShellCodeLoader()
         {
             if (localmap_ != (IntPtr)0)
                 ZwUnmapViewOfSection(section_, localmap_);
@@ -464,7 +464,7 @@ namespace ShellLoader
 
         }
 
-        public Loader()
+        public ShellCodeLoader()
         {
             section_ = new IntPtr();
             localmap_ = new IntPtr();

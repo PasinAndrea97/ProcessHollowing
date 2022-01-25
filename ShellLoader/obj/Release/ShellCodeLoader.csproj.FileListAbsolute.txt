@@ -1,0 +1,6 @@
+D:\GitHub\ProcessHollowing\ShellLoader\bin\Release\ShellLoader.dll
+D:\GitHub\ProcessHollowing\ShellLoader\bin\Release\ShellLoader.pdb
+D:\GitHub\ProcessHollowing\ShellLoader\obj\Release\ShellCodeLoader.csproj.AssemblyReference.cache
+D:\GitHub\ProcessHollowing\ShellLoader\obj\Release\ShellCodeLoader.csproj.CoreCompileInputs.cache
+D:\GitHub\ProcessHollowing\ShellLoader\obj\Release\ShellLoader.dll
+D:\GitHub\ProcessHollowing\ShellLoader\obj\Release\ShellLoader.pdb

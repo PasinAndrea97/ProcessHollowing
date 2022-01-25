@@ -1,11 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.26730.12
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31605.320
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestApp", "TestApp\TestApp.csproj", "{940FF99B-C2D3-4614-A9A1-EB6A7AD08858}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "W11_Update", "TestApp\W11_Update.csproj", "{940FF99B-C2D3-4614-A9A1-EB6A7AD08858}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShellLoader", "ShellLoader\ShellLoader.csproj", "{B8282841-0368-48B9-98EB-53BD511422D9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShellCodeLoader", "ShellLoader\ShellCodeLoader.csproj", "{B8282841-0368-48B9-98EB-53BD511422D9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -1,0 +1,10 @@
+D:\GitHub\ProcessHollowing\TestApp\bin\Debug\TestApp.exe.config
+D:\GitHub\ProcessHollowing\TestApp\bin\Debug\TestApp.exe
+D:\GitHub\ProcessHollowing\TestApp\bin\Debug\ShellLoader.dll
+D:\GitHub\ProcessHollowing\TestApp\bin\Debug\ShellLoader.pdb
+D:\GitHub\ProcessHollowing\TestApp\obj\Debug\W11_Update.csproj.AssemblyReference.cache
+D:\GitHub\ProcessHollowing\TestApp\obj\Debug\W11_Update.csproj.CoreCompileInputs.cache
+D:\GitHub\ProcessHollowing\TestApp\obj\Debug\W11_Update.csproj.CopyComplete
+D:\GitHub\ProcessHollowing\TestApp\obj\Debug\TestApp.exe
+D:\GitHub\ProcessHollowing\TestApp\obj\Debug\TestApp.pdb
+D:\GitHub\ProcessHollowing\TestApp\bin\Debug\TestApp.pdb
